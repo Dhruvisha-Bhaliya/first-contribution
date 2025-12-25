@@ -1,5 +1,6 @@
 # Contributors
 
+- [Dhruvisha B](https://github.com/Dhruvisha-Bhaliya): Help beginners to contribute to open source projects
 - [PRAGATHI P B](https://github.com/pragathibasutkar): Fisrt contribution, Excited and eager to learn 
 - [Aarthi Senthil Kumar](https://github.com/aarth123) : Good to know
 - [Keerthika Chalavadi](https://github.com/Keerthikach): Have to get into GSOC 2026, this is the beginning
